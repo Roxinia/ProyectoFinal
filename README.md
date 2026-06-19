@@ -2,6 +2,8 @@
 
 Aplicación web interactiva desarrollada con Streamlit a partir de la Tarea 3 de Fotogrametría.
 
+App publicada: https://proyectofinal-fuz7hdjmgbaxzwatpxsumb.streamlit.app/
+
 ## Archivos incluidos
 
 - `app.py`: código principal de la aplicación.
@@ -14,17 +16,3 @@ Aplicación web interactiva desarrollada con Streamlit a partir de la Tarea 3 de
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Publicación en GitHub y Streamlit Cloud
-
-1. Crear un repositorio público en GitHub.
-2. Subir `app.py`, `requirements.txt` y `datos.csv`.
-3. Entrar a Streamlit Cloud.
-4. Seleccionar **New app**.
-5. Conectar el repositorio de GitHub.
-6. Definir el archivo principal como `app.py`.
-7. Publicar la aplicación.
-
-URL esperada de entrega: `https://<nombre-de-la-aplicacion>.streamlit.app`
-
-> Nota: la URL final solo se obtiene después de publicar manualmente la aplicación en Streamlit Cloud con una cuenta vinculada a GitHub.
