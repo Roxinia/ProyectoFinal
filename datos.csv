@@ -1,0 +1,11 @@
+Proyecto;Tipo_Terreno;Altura_Vuelo_m;Imagenes;Resolucion_cm_px;Tiempo_Procesamiento_min;Software;Latitud;Longitud
+Zona Forestal;Bosque;120;450;3.2;95;Metashape;9.9333;-84.0833
+Area Agricola;Agricultura;100;380;2.8;80;Pix4D;10.0163;-84.2116
+Zona Urbana;Urbano;80;520;1.9;120;OpenDroneMap;9.9907;-84.1293
+Rio y Quebrada;Hidrologia;110;410;2.5;90;Metashape;10.0956;-84.4703
+Finca Cafetalera;Agricultura;90;360;2.2;75;Drone2Map;9.8644;-83.9194
+Plantacion Forestal;Bosque;130;600;3.5;140;Pix4D;10.6350;-85.4377
+Modelo 3D Campus;Urbano;70;700;1.5;160;Metashape;9.7489;-83.7534
+Analisis Topografico;Montanas;140;480;4.1;130;OpenDroneMap;10.3000;-84.4333
+Zona Costera;Costero;100;390;2.7;88;Drone2Map;9.4439;-84.1437
+Control de Cultivos;Agricultura;85;340;2;70;Pix4D;10.3910;-84.4380
