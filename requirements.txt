@@ -5,3 +5,4 @@ plotly>=5.20
 folium>=0.16
 streamlit-folium>=0.20
 branca>=0.7
+statsmodels>=0.14
